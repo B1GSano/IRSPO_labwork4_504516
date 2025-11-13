@@ -1,5 +1,5 @@
 import math
-
+import unittest
 
 def area(r):
 	"""
@@ -16,4 +16,3 @@ def perimeter(r):
 	Возвращает pi * r * 2 - периметр окружности
 	"""
 	return 2 * math.pi * r
-
